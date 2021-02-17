@@ -1,0 +1,42 @@
+header {
+  margin-top: 50px;
+  display: flex;
+}
+
+.logo {
+  width: 300px;
+}
+
+.site-title {
+  font-family: 'Comic Sans MS, "cursive", "American Typewriter",
+    "Big Caslon", "Bodoni 72";
+}
+
+.site-nav {
+  display: flex;
+  margin-top: 55px;
+}
+
+.nav-menu {
+  font-size: 20px;
+  margin-right: 40px;
+}
+
+.site-search {
+  font-size: 30px;
+  margin-top: 55px;
+  margin-left: auto;
+}
+
+.main-image1 {
+  margin: 100px auto;
+  width: 100%;
+}
+
+.main-message {
+  margin-bottom: 100px;
+}
+
+.main-messages {
+  font-size: 30px;
+}
