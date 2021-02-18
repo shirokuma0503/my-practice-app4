@@ -7,11 +7,6 @@ header {
   width: 300px;
 }
 
-.site-title {
-  font-family: 'Comic Sans MS, "cursive", "American Typewriter",
-    "Big Caslon", "Bodoni 72";
-}
-
 .site-nav {
   display: flex;
   margin-top: 55px;
@@ -39,4 +34,25 @@ header {
 
 .main-messages {
   font-size: 30px;
+}
+
+.main-content {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.blog-date {
+  width: 30%;
+}
+
+.blog-content {
+  width: 70%;
+}
+
+.blog-title {
+  margin-bottom: 30px;
+}
+
+.blog-discription {
+  white-space: normal;
 }
