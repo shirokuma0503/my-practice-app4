@@ -73,6 +73,31 @@ header {
   border-color: black;
 }
 
-.profile {
+.footer {
+  margin-top: 100px;
   display: flex;
+}
+
+.profile {
+  width: 40%;
+  display: block;
+  padding-right: 50px;
+}
+
+.profile-image {
+  height: 100px;
+  width: 100px;
+}
+
+.fotter-right {
+  width: 20%;
+  padding-right: 50px;
+}
+
+.recently-blog {
+  width: 20%;
+}
+
+.category {
+  width: 20%;
 }
